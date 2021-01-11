@@ -4,7 +4,7 @@
 You can find my living document [here](https://docs.google.com/spreadsheets/d/12NPhM8Nom-K4TzoWUFvXqUXVt-HyTaEw7aM3jxspBx4/) which includes documentation many passive and queried data points. Some are probably wrong, please verify if you are able. Included in the document are messages for remote lock, unlock, and preconditioning which seem to be of most interest to people.
 
 ### How to
-There are dozens of ways to use or discover data like this and which you choose will be based on your end goals. You'll need both hardware and custom software to make any of this work.
+There are dozens of ways to use or discover data like this and which you choose will be based on your end goals. You'll need both hardware and custom software to make most of this work.
 
 ##### Hardware:
 - Raspberry Pi is an all round winner excelling in deciphering, heavy processing, and built in connectivity
