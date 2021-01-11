@@ -7,6 +7,8 @@
 ##### About ELM327:
 You access it over a serial connection (terminal or maybe streams on a mobile app.) AT instructions tell the adapter what to do, typically configuring the device or upcoming commands. You literally type `ATZ` then press `ENTER` key in the terminal to reset the device and see it's version. In some examples below, there is no `AT` at the start of the line - here you are just sending raw HEX to the bus. In my experience with 500e you need to always set a header BEFORE sending HEX data using something like `ATSHwwxxyyzz`.
 
+Official spec can be found [here](https://www.elmelectronics.com/wp-content/uploads/2016/07/ELM327DS.pdf) with a quick reference found [here](https://www.sparkfun.com/datasheets/Widgets/ELM327_AT_Commands.pdf)
+
 # Examples
 ### Configure for CAN-B
 ```
