@@ -20,7 +20,7 @@ There are dozens of ways to use or discover data like this and which you choose 
 - (CLI) minicom for Linux or Mac to work with ELM327 devices
 - (Mobile) AlfaOBD is great for extracting data on Android using and ELM327
 - (Mobile) Multiecuscan on iOS is better yet and provides a clean and easy to understand UI
-- (Mobile) Other off the shelf ELM terminals and OBD apps are worth your time as they do not work or cause trouble
+- (Mobile) Other off the shelf ELM terminals and OBD apps are not worth your time as they do not work or cause trouble
 
 ### Off the shelf solutions
 Not a ton of options here. I will caution plugging anything into the OBDII port. In my experience it has caused temporary errors, but at least one report of costly damage exists.
